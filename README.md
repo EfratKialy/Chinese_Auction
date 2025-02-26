@@ -27,6 +27,7 @@ cd ../client && npm install && npm start
 📌 Main tables: Users, Donors, Gifts, Purchases, Winners
 
 💚 Contributing
+
 Code contributions are welcome! 🍀
 
 🌟 Contact

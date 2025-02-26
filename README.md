@@ -17,7 +17,12 @@ A system for managing a Chinese auction with separate functionalities for admins
 ✔ Register and log in
 ✔ Browse and purchase raffle tickets
 ✔ View winners after the raffle
- 
+
+🚀 Getting Started
+git clone https://github.com/EfratKialy/Chinese-Auction.git  
+cd ChineseAuction/server && dotnet restore && dotnet run  
+cd ../client && npm install && npm start  
+
 📈 Database Structure
 📌 Main tables: Users, Donors, Gifts, Purchases, Winners
 
@@ -25,6 +30,6 @@ A system for managing a Chinese auction with separate functionalities for admins
 Code contributions are welcome! 🍀
 
 🌟 Contact
-📩 Efrat Kialy 
+📩 Efrat Kialy
 
 🔖 MIT License

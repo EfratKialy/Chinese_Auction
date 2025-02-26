@@ -19,7 +19,7 @@ A system for managing a Chinese auction with separate functionalities for admins
 ✔ View winners after the raffle
 
 🚀 Getting Started
-git clone https://github.com/EfratKialy/Chinese-Auction.git  
+git clone https://github.com/EfratKialy/Chinese_Auction.git  
 cd ChineseAuction/server && dotnet restore && dotnet run  
 cd ../client && npm install && npm start  
 
